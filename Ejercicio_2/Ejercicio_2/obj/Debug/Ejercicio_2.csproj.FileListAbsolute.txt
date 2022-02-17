@@ -1,0 +1,11 @@
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.exe.config
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.exe
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.pdb
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.csproj.AssemblyReference.cache
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.csproj.SuggestedBindingRedirects.cache
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.Form1.resources
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.csproj.GenerateResource.cache
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.exe
+C:\Programación3IPA-2022\Ejercicio_2\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.pdb
